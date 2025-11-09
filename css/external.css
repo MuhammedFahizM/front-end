@@ -1,0 +1,14 @@
+body {
+        background-color: blueviolet;
+
+        }
+        h1 {
+            background-color: aliceblue;
+            font-size: xx-large;
+            color: blue;
+        }
+        p {
+            background-color: darkgreen;
+            font-size: large;
+            color: chartreuse;
+        }
